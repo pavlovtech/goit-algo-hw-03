@@ -31,7 +31,7 @@ def get_upcoming_birthdays(users):
 
     return upcoming
 
-# Example usage
+# Test
 users = [
     {"name": "John Doe", "birthday": "1985.04.26"},
     {"name": "Jane Smith", "birthday": "1990.04.25"}
